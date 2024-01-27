@@ -7,8 +7,6 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AllExamTest
-- 🌱 I’m currently learning React, Redux, Tailwind CSS
-- 🤔 I’m looking for help with MERN Stack
-- 💬 Ask me about Node.js
+- 🔭 I’m currently working at @Misfits
+- 🌱 I’m currently learning @Golang
 - Portfolio : https://portfolio-dheerajkumarsaw.vercel.app/
